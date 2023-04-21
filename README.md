@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Language-C-brightgreen)
 ![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
 ![](https://img.shields.io/badge/Language-ASMx64-brightgreen)
+![](https://img.shields.io/badge/Language-Python-brightgreen)
 ![](https://img.shields.io/badge/Language-Makefile-DCB00A)
 ![](https://img.shields.io/badge/Language-Shell-DCB00A)
 ![](https://img.shields.io/badge/Language-JavaScript-D031FF)
