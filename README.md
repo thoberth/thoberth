@@ -57,23 +57,23 @@
 
 <h3 align="left">Clickable links for documentation:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 <!-- -->
-<a href="https://numpy.org/doc/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://numpy.org/doc/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
 <!-- -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg
-" alt="bash" width="40" height="40"/> </a>
+" alt="matplotlib" width="40" height="40"/> </a>
 <!-- -->
 <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png
-" alt="bash" width="80" height="40"/> </a>
+" alt="sklearn" width="80" height="40"/> </a>
 <!-- -->
 <a href="https://pandas.pydata.org/ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg
-" alt="bash" width="80" height="40"/> </a>
+" alt="pandas" width="80" height="40"/> </a>
 <!-- -->
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg
-" alt="bash" width="40" height="40"/> </a>
+" alt="pytorch" width="40" height="40"/> </a>
 <!-- -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <!-- -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <!-- -->
